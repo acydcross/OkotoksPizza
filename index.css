@@ -1,9 +1,20 @@
-h1 {
+h1,
+h3 {
     color: green;
+    text-align: center;
+}
+
+a {
+    color: tomato;
 }
 
 p {
-    color: yellow;
+    color: yellowgreen;
+    text-align: center;
+}
+
+div {
+  font-size-adjust: 0.58;
 }
 
 img {
