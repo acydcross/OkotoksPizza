@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+
+article > section {
+    color: darkgray
+}
+
+h1 + h2 {
+    background-color: darkmagenta;
+}
+
+a:link {
+    color: violet
+  }
+  
+a:visited {
+    color: green;
+  }
+  
+a:hover {
+    color: yellowgreen;
+  }
+  
+a:active {
+    color: darkorange
+  }
